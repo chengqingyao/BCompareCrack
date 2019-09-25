@@ -1,6 +1,6 @@
 # Beyond Compare 4.2.10注册机
 
-#### 介绍（如果对你有用，请给个star！）
+#### 介绍（如果对你有用，请给个star！本程序仅用于学习交流）
 master分支支持破解Beyond Compare 4.2.10(当前最新版)和Beyond Compare 4.2.9, 但破解速度比较慢,
 crack4.2.9分支只支持破解Beyond Compare 4.2.9，但破解速度快，使用方法：把BCompareCrack.exe拷贝到Beyond Compare安装目录，点击运行就可以
 
